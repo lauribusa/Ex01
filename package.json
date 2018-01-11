@@ -1,0 +1,24 @@
+{
+  "name": "js-review",
+  "version": "0.0.1",
+  "description": "Kekchose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauribusa/Ex01.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "exo"
+  ],
+  "author": "Lightbolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lauribusa/Ex01/issues"
+  },
+  "homepage": "https://github.com/lauribusa/Ex01#readme"
+}
