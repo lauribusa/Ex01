@@ -18,4 +18,4 @@ console.log(number.reduce((prev,current)=>{
     return prev+current
 },0));
 
-console.log(number.filter(item => item%2 === 0));
+console.log(number.filter(item => item%2 === 0g));
