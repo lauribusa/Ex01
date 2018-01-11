@@ -8,13 +8,14 @@ var obj = {
 
 const number = [1,2,3,4,5,6];
 
-function dblnumbers(arr){
-    let newarr = [];
-    arr.forEach(function(element) {
-    return newarr.push(element * 2);
-      });
-    console.log(newarr);
-}
-dblnumbers(number);
+// function dblnumbers(arr){
+//     return arr.map(element => element * 2);
+// }
 
-console.log(obj.toString());
+// console.log(dblnumbers(number));
+// console.log(obj.toString());
+console.log(number.reduce((prev,current)=>{
+    return prev+current
+},0));
+
+console.log(number.filter(item => item%2 === 0));
