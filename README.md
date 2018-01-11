@@ -1,3 +1,3 @@
 # Ex01
 An exercise
-Et quand je fais des pâtes ça sens le phoque
+Et quand \n je fais des pâtes ça sens le phoque
